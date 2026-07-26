@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hello World, I'm Irene!
 
-<!--
-**Irene-M16/Irene-M16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Based in Kampala, Uganda 🇺🇬
 
-Here are some ideas to get you started:
+🌱 I'm a junior full-stack web developer, learning to build clean, functional websites and apps with **HTML, CSS, JavaScript**, and the **Node.js/Express** stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🍃 Currently Working On
+- 🖥️ Building my **portfolio site** to showcase my projects and skills
+
+## 📚 Currently Learning
+- ⚛️ **React** — leveling up my front-end skills beyond vanilla JS
+- 🤖 **AI** — exploring how to build and integrate AI-powered features into web apps
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Markup**
+`HTML` `CSS` `JavaScript`
+
+**Backend**
+`Node.js` `Express.js`
+
+**Templating**
+`Pug`
+
+**Front-end Frameworks**
+`Vue.js` `React` *(learning)*
+
+**Tools**
+`Git` `GitHub`
+
+---
+
+## 📊 GitHub Stats
+
+![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+
+---
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/munguromo-irene-74a5953b8
+
+---
+Email: munguromoirene7@gmail.com
+---
+
+
+
+## ⚡ Fun Fact
+I can spend an entire day debugging one line of code... and somehow it's always a missing semicolon! 😅

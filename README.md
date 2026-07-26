@@ -1,4 +1,4 @@
-console.log("Hi, I'm Irene 👋")
+## console.log("Hi, I'm Irene 👋")
 
 🌍 Based in Kampala, Uganda 🇺🇬
 

@@ -10,8 +10,8 @@
 - 🖥️ Building my **portfolio site** to showcase my projects and skills
 
 ## 📚 Currently Learning
-- ⚛️ **React** — leveling up my front-end skills beyond vanilla JS
-- 🤖 **AI** — exploring how to build and integrate AI-powered features into web apps
+- ⚛️ **React** - leveling up my front-end skills beyond vanilla JS
+- 🤖 **AI** - exploring how to build and integrate AI-powered features into web apps
 
 ---
 
@@ -51,4 +51,4 @@ Email: munguromoirene7@gmail.com
 
 
 ## ⚡ Fun Fact
-I can spend an entire day debugging one line of code... and somehow it's always a missing semicolon! 😅
+I can center a div now - send help for what's next 😄

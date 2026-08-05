@@ -42,9 +42,8 @@
 
 
 ## 📫 Connect With Me
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" />
-</a>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
 
 
 

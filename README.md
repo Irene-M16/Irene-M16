@@ -4,7 +4,7 @@
 
 🌱 I'm a junior full-stack web developer, learning to build clean, functional websites and apps with **HTML, CSS, JavaScript**, and the **Node.js/Express** stack.
 
----
+
 
 ## 🍃 Currently Working On
 - 🖥️ Building my **portfolio site** to showcase my projects and skills
@@ -13,7 +13,7 @@
 - ⚛️ **React** - leveling up my front-end skills beyond vanilla JS
 - 🤖 **AI** - exploring how to build and integrate AI-powered features into web apps
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -32,21 +32,21 @@
 **Tools**
 `Git` `GitHub`
 
----
+
 
 ## 📊 GitHub Stats
 
 ![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
 
----
+
 
 ## 📫 Connect With Me
 LinkedIn: www.linkedin.com/in/munguromo-irene-74a5953b8
 
----
+
 Email: munguromoirene7@gmail.com
----
+
 
 
 

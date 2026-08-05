@@ -42,7 +42,10 @@
 
 
 ## 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/munguromo-irene-74a5953b8
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" />
+</a>
+
 
 
 Email: munguromoirene7@gmail.com

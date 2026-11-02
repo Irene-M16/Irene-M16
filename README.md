@@ -1,56 +1,24 @@
-## console.log("Hi, I'm Irene 👋")
+# console.log("Hi, I'm Irene");
 
-🌍 Based in Kampala, Uganda 🇺🇬
+Based in Kampala, Uganda
 
-🌱 I'm a junior full-stack web developer, learning to build clean, functional websites and apps with **HTML, CSS, JavaScript**, and the **Node.js/Express** stack.
+I’m a Junior Full-Stack Web Developer passionate about building clean, functional, and accessible web applications. I have a strong foundation in JavaScript, Node.js, and Express, and I recently completed an intensive Software Engineering Apprenticeship at Refactory Academy.
 
+## Currently Working On
+*   **Video Relay Platform:** Building a full-stack application to bridge the communication gap between deaf/hard-of-hearing individuals and hearing institutions. (Team of 6, using Agile/GitHub).
+*   **Portfolio Site:** Building my personal portfolio to showcase my projects.
 
+## Tech Stack & Tools
+*   **Languages:** JavaScript, HTML5, CSS3, SQL
+*   **Backend:** Node.js, Express.js, RESTful APIs
+*   **Databases:** MongoDB, PostgreSQL
+*   **Frontend:** Pug, Bootstrap, React (learning)
+*   **Software Engineering:** Object-Oriented Programming (OOP), UML, TDD, BDD, SOLID Principles, CI/CD
+*   **Tools:** Git, GitHub, VS Code, Figma, Trello
 
-## 🍃 Currently Working On
-- 🖥️ Building my **portfolio site** to showcase my projects and skills
+## Connect with Me
+*   **LinkedIn:** [Munguromo Irene](https://www.linkedin.com/in/munguromo-irene-74a5953b8/)
+*   **Email:** munguromoirene7@gmail.com
 
-## 📚 Currently Learning
-- ⚛️ **React** - leveling up my front-end skills beyond vanilla JS
-- 🤖 **AI** - exploring how to build and integrate AI-powered features into web apps
-
-
-
-## 🛠️ Tech Stack
-
-**Languages & Markup**
-`HTML` `CSS` `JavaScript`
-
-**Backend**
-`Node.js` `Express.js`
-
-**Templating**
-`Pug`
-
-**Front-end Frameworks**
-`Vue.js` `React` *(learning)*
-
-**Tools**
-`Git` `GitHub`
-
-
-
-## 📊 GitHub Stats
-
-![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
-
-
-
-## 📫 Connect With Me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-
-
-
-
-Email: munguromoirene7@gmail.com
-
-
-
-
-## ⚡ Fun Fact
-I can center a div now - send help for what's next 😄
+---
+*Fun Fact: I can center a div now - send help for what's next 😄*
